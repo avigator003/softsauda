@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "softsauda",
+    "slug": "softsauda",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/softsauda.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/softsauda.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.avigator003.softsauda"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
